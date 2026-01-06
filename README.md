@@ -2,10 +2,6 @@
 
 A dynamic Single Page Application (SPA) built with **React** and **React Router v6** to demonstrate advanced routing concepts. This project simulates a product management system with features like search filtering, dynamic product details, and a nested dashboard layout.
 
-## 🚀 Live Demo
-[Insert Live Demo Link Here]
-
-## ✨ Features
 
 - **Dynamic Routing:** View individual product details using URL parameters (`/products/:id`).
 - **Search Functionality:** Real-time filtering using Query Strings (`?q=...`) without page reload.
