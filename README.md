@@ -35,3 +35,18 @@ src/
 └── data.js              # Mock Data Source
 
 ```
+
+🧠 Key Concepts Learned
+1-This project focuses on mastering React Router v6 hooks and components:
+
+2-BrowserRouter, Routes, Route: Setting up the main routing architecture.
+
+3-useParams: Extracting parameters from the URL (e.g., product IDs).
+
+4-useSearchParams: Managing URL query strings for search and filtering.
+
+5-Outlet: Rendering child routes within a parent layout (Used in Dashboard).
+
+6-useNavigate: navigating programmatically (e.g., Back button, Search form submission).
+
+7-Link: For client-side navigation without refreshing the page.
